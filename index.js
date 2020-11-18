@@ -108,7 +108,7 @@ ${response.reflection}
 
 ## Future Deployment
 
-${response.deployment}
+${response.future}
 
 ---
 
