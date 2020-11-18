@@ -112,11 +112,11 @@ ${response.future}
 
 ---
 
-<div align ="center>
+<div align ="center">
     
 <img src='https://img.sheilds.io/github/repo-size/${response.username}/${response.name}'>
 <img src='https://img.sheilds.io/github/last-commit/${response.username}/${response.name}'>
-<img src='https://img.sheilds.io/github/repo-launguages/${response.username}/${response.name}'>
+<img src='https://img.sheilds.io/github/repo-languages/${response.username}/${response.name}'>
 
 # Licence:
     
