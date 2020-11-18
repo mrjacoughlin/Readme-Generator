@@ -79,47 +79,51 @@ inquirer
   ])
   .then((response) => {
     const readme = `
-    # ${response.name}
+# ${response.name}
 
-    ### _${response.description} ${response.why} ${response.what} ${response.learn} ${response.standout}_
+### _${response.description} ${response.why} ${response.what} ${response.learn} ${response.standout}_
 
-    ![Demo](${response.demo})
+![Demo](${response.demo})
     Currently deployed at [GitHub Pages](${response.github})
 
-    ---
+---
 
-    ## Features
+## Features
 
-    ${response.features}
+${response.features}
 
-    ---
+---
 
-    ## List Of Collaborators on this Project:${response.credits}
-
-    ---
-
-    ## Reflection
-
-    ${response.reflection}
-
-    ---
-
-    ## Future Deployment
-
-    ${response.deployment}
-
-    ---
-
-    <div align ="center>
+## List Of Collaborators on this Project:
     
-    <img src='https://img.sheilds.io/github/repo-size/${response.username}/${response.name}'>
-    <img src='https://img.sheilds.io/github/last-commit/${response.username}/${response.name}'>
-    <img src='https://img.sheilds.io/github/repo-launguages/${response.username}/${response.name}'>
+${response.credits}
 
-    # Licence:${response.licences}
+---
 
-    </div>
-    `;
+## Reflection
+
+${response.reflection}
+
+---
+
+## Future Deployment
+
+${response.deployment}
+
+---
+
+<div align ="center>
+    
+<img src='https://img.sheilds.io/github/repo-size/${response.username}/${response.name}'>
+<img src='https://img.sheilds.io/github/last-commit/${response.username}/${response.name}'>
+<img src='https://img.sheilds.io/github/repo-launguages/${response.username}/${response.name}'>
+
+# Licence:
+    
+${response.licences}
+
+</div>
+`;
     fs.writeFile("README.md", readme, {}, (err) =>
       err ? console.log(err) : console.log("File Created")
     );
