@@ -1,7 +1,7 @@
 
 # Readme-Generator
 
-### _asdfghjk dsgdfgfdghfg dfgdfgffgds undefined dsfgdfsgdfgfds_
+### _blah blah blah i dont know any undefined everything_
 
 ![Demo](#)
     Currently deployed at [GitHub Pages](https://mrjacoughlin.github.io/Readme-Generator/)
@@ -10,25 +10,25 @@
 
 ## Features
 
-dkjbhvlkdfshbgvakdfjh
+dfhsgkjdfhgjkhfdjkgh
 
 ---
 
 ## List Of Collaborators on this Project:
     
-https://github.com/mrjacoughlin/Readme-Generator/blob/main/README.md
+meeee
 
 ---
 
 ## Reflection
 
-dflgnhjkldfhgjk
+nothing 
 
 ---
 
 ## Future Deployment
 
-kfdghkldfhgjksdfhp
+its perfect so nothing 
 
 ---
 
