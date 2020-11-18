@@ -1,40 +1,40 @@
-    # Readme-Generator
+# Readme-Genorator
 
-    ### _To create a template for all readme files. This will save time for future projects. Not having to create a readme page every project.  undefined _
+### _To create a template for all readme files. This will save time for future projects. Not haveing to create a readme file for everyproject. undefined _
 
-    ![Demo]()
-    Currently deployed at [GitHub Pages]( https://mrjacoughlin.github.io/Readme-Generator/.)
+![Demo]()
+Currently deployed at [GitHub Pages](https://mrjacoughlin.github.io/Readme-Generator/)
 
-    ---
+---
 
-    ## Features
+## Features
 
-    - This is a basic template asking the following quitions,
+---
 
-    ---
+## List Of Collaborators on this Project:
 
-    ## List Of Collaborators on this Project:https://github.com/mrjacoughlin/Readme-Generator
+https://github.com/mrjacoughlin/Readme-Generator/blob/main/README.md
 
-    ---
+---
 
-    ## Reflection
+## Reflection
 
-    Still Learning on how to utilize the template.
+---
 
-    ---
+## Future Deployment
 
-    ## Future Deployment
+undefined
 
-    undefined
+---
 
-    ---
+<div align ="center>
+    
+<img src='https://img.sheilds.io/github/repo-size/mrjacoughlin/Readme-Genorator'>
+<img src='https://img.sheilds.io/github/last-commit/mrjacoughlin/Readme-Genorator'>
+<img src='https://img.sheilds.io/github/repo-launguages/mrjacoughlin/Readme-Genorator'>
 
-    <div align ="center>
+# Licence:
 
-    <img src='https://img.sheilds.io/github/repo-size/mrjaccoughlin/Readme-Generator'>
-    <img src='https://img.sheilds.io/github/last-commit/mrjaccoughlin/Readme-Generator'>
-    <img src='https://img.sheilds.io/github/repo-launguages/mrjaccoughlin/Readme-Generator'>
+1
 
-    # Licence:1
-
-    </div>
+</div>
