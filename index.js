@@ -127,4 +127,9 @@ ${response.licences}
     fs.writeFile("README.md", readme, {}, (err) =>
       err ? console.log(err) : console.log("File Created")
     );
+    function generateMarkdown(data) {
+      return `# ${data.title}
+        `;
+    }
+    module.export = generateMarkdown;
   });
