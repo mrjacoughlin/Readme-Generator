@@ -120,7 +120,8 @@ ${response.future}
 
 # Licence:
     
-${response.licences}
+This project is[MIT](${response.github})
+
 
 </div>
 `;

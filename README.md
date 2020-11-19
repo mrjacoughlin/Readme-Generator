@@ -1,34 +1,34 @@
 
 # Readme-Generator
 
-### _blah blah blah i dont know any undefined everything_
+### _The motivation for this project is to create a Readme using Node.js , this will save time when creating future projects. . undefined ._
 
-![Demo](#)
+![Demo](.)
     Currently deployed at [GitHub Pages](https://mrjacoughlin.github.io/Readme-Generator/)
 
 ---
 
 ## Features
 
-dfhsgkjdfhgjkhfdjkgh
+...
 
 ---
 
 ## List Of Collaborators on this Project:
     
-meeee
+https://github.com/mrjacoughlin/Readme-Generator
 
 ---
 
 ## Reflection
 
-nothing 
+...
 
 ---
 
 ## Future Deployment
 
-its perfect so nothing 
+I will add images.
 
 ---
 
@@ -40,6 +40,7 @@ its perfect so nothing
 
 # Licence:
     
-1
+This project is[MIT](https://mrjacoughlin.github.io/Readme-Generator/)
+
 
 </div>
